@@ -1,5 +1,6 @@
 #import <libactivator/libactivator.h>
 #import <UIKit/UIKit.h>
+#import <SpringBoard/SBApplication.h>
 #import <SpringBoard/SBUIController.h>
 
 #pragma mark SBUIController Methods

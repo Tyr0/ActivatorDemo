@@ -1,0 +1,3 @@
+run:
+	export FW_DEVICE_IP=XXX.XXX.X.XXX
+	make package install

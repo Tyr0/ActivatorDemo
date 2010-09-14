@@ -1,3 +1,5 @@
+export SDKVERSION=4.0
+
 include theos/makefiles/common.mk
 
 TWEAK_NAME = ActivatorDemo
